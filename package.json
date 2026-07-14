@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-app",
+  "version": "1.0.0",
+  "description": "A fullstack app with design interactivity and no bugs",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
